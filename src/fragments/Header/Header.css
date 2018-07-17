@@ -114,7 +114,7 @@ ul.mainNav{
   height: auto;
   max-height: auto;
   background: $black_serverless;
-  box-shadow: 0 0px 50px 1px rgba(255,255,255,0.3);
+  box-shadow: 0 10px 50px 1px $black_serverless;
   position: absolute;
   z-index: 999;
   top: calc($navHeight - 1px);
